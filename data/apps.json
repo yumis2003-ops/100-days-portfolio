@@ -69,7 +69,7 @@
     "title": "Notion風メモ帳",
     "url": "https://simple-memo-pad-gray.vercel.app",
     "repo": "https://github.com/yumis2003-ops/simple-memo-pad",
-    "description": "LocalStorageに保存されるシンプルなメモ帳",
+    "description": "LocalStorageに保存されるシンプルなメモ帳。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -108,7 +108,7 @@
     "title": "シンプルToDoリスト",
     "url": "https://todo-app-nine-xi-81.vercel.app",
     "repo": "https://github.com/yumis2003-ops/todo-app",
-    "description": "簡単なToDoリストアプリ",
+    "description": "簡単なToDoリストアプリ。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -121,7 +121,7 @@
     "title": "シンプル電卓",
     "url": "https://dentaku-mocha.vercel.app",
     "repo": "https://github.com/yumis2003-ops/dentaku",
-    "description": "簡単な電卓アプリ.",
+    "description": "簡単な電卓アプリ。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -131,7 +131,7 @@
   },
   {
     "day": 11,
-    "title": "ストップウォッチ",
+    "title": "シンプルストップウォッチ",
     "url": "https://stop-watch-seven-pearl.vercel.app",
     "repo": "https://github.com/yumis2003-ops/stop-watch",
     "description": "ラップ計測に対応したシンプルなストップウォッチ。",
@@ -144,10 +144,10 @@
   },
   {
     "day": 12,
-    "title": "お天気アプリ",
+    "title": "シンプルお天気アプリ",
     "url": "https://stop-watch-pkou.vercel.app",
     "repo": "https://github.com/yumis2003-ops/otenki",
-    "description": "現在の天気をお知らせするアプリ",
+    "description": "現在の天気をお知らせするアプリ。",
     "tags": [
       "その他",
       "JavaScript"
@@ -170,10 +170,10 @@
   },
   {
     "day": 14,
-    "title": "Currency Converter | Scuderia",
+    "title": "為替チェッカー",
     "url": "https://yumis2003-ops.github.io/currency-converter",
     "repo": "https://github.com/yumis2003-ops/currency-converter",
-    "description": "Currency Converter App with Real-Time Exchange Rates",
+    "description": "現在の為替レートを表示するアプリ。",
     "tags": [
       "ユーティリティ",
       "JavaScript"
@@ -196,10 +196,10 @@
   },
   {
     "day": 16,
-    "title": "MiroStyle - Movie & Anime Search",
+    "title": "Movie & Anime Search",
     "url": "https://movie-anime-search.vercel.app",
     "repo": "https://github.com/yumis2003-ops/movie-anime-search",
-    "description": "キーワードを入力するだけで、映画やアニメのポスターとあらすじを簡単に検索できる。",
+    "description": "キーワードを入力するだけで、映画やアニメのポスターとあらすじを簡単に検索できるアプリ。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -239,7 +239,7 @@
     "title": "画像フィルタースタジオ",
     "url": "https://image-filter-studio-navy.vercel.app",
     "repo": "https://github.com/yumis2003-ops/image-filter-studio",
-    "description": "Canvas APIを使った画像フィルタツール（グレースケール・セピア・反転など8種類）",
+    "description": "Canvas APIを使った画像フィルタツール（グレースケール・セピア・反転など8種類）。",
     "tags": [
       "ユーティリティ",
       "HTML"
@@ -252,7 +252,7 @@
     "title": "シンプルデジタルクロック",
     "url": "https://digital-clock-xi-nine-95.vercel.app",
     "repo": "https://github.com/yumis2003-ops/digital-clock",
-    "description": "シンプルな世界時計",
+    "description": "シンプルな世界時計。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -278,7 +278,7 @@
     "title": "JSON Validator — Binance Style",
     "url": "https://json-validator-lilac.vercel.app",
     "repo": "https://github.com/yumis2003-ops/json-validator",
-    "description": "JSONが有効か調べるアプリ",
+    "description": "入力したJSONが有効か調べるアプリ。",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -292,7 +292,7 @@
     "title": "HTTPステータスコード検索",
     "url": "https://http-search.vercel.app",
     "repo": "https://github.com/yumis2003-ops/HTTP-search",
-    "description": "404や500など、エラーやステータスコードの意味をすばやく引けるツール",
+    "description": "404や500など、エラーやステータスコードの意味をすばやく引けるツール。",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -306,7 +306,7 @@
     "title": "Base64 Encoder & Decoder",
     "url": "https://base64-tool-omega.vercel.app",
     "repo": "https://github.com/yumis2003-ops/base64-tool",
-    "description": "テキストを瞬時にBase64へ変換したり、Base64から元のテキストへ復元したりできるアプリ",
+    "description": "テキストを瞬時にBase64へ変換したり、Base64から元のテキストへ復元したりできるアプリ。",
     "tags": [
       "開発ツール",
       "CSS"
@@ -319,7 +319,7 @@
     "title": "URLパラメーター抽出器",
     "url": "https://url-parameter-extractor.vercel.app",
     "repo": "https://github.com/yumis2003-ops/url-parameter-extractor",
-    "description": "長いURLからクエリだけ抜き出せるアプリ",
+    "description": "長いURLからクエリだけ抜き出せるアプリ。",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -333,7 +333,7 @@
     "title": "正規表現チェッカー | Binance Style",
     "url": "https://check-roan-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/Check",
-    "description": "リアルタイムで正規表現のパターンをテスト・検証するアプリ",
+    "description": "リアルタイムで正規表現のパターンをテスト・検証するアプリ。",
     "tags": [
       "開発ツール",
       "CSS"
@@ -346,7 +346,7 @@
     "title": "Text Diff Tool",
     "url": "https://text-diff-tool-coral.vercel.app",
     "repo": "https://github.com/yumis2003-ops/text-diff-tool",
-    "description": "2つのテキストの差分をハイライトするアプリ.",
+    "description": "2つのテキストの差分をハイライトするアプリ。",
     "tags": [
       "開発ツール",
       "CSS"
@@ -373,7 +373,7 @@
     "title": "カラーパレット抽出機",
     "url": "https://color-palette-extractor-lac.vercel.app",
     "repo": "https://github.com/yumis2003-ops/color-palette-extractor",
-    "description": "画像から主要な色を抜き出してパレットにするアプリ",
+    "description": "画像から主要な色を抜き出してパレットにするアプリ。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -412,7 +412,7 @@
     "title": "Click Speed Test",
     "url": "https://click-speed-test-sable.vercel.app",
     "repo": "https://github.com/yumis2003-ops/click-speed-test",
-    "description": "10秒間に何回クリックできるか測定するゲーム",
+    "description": "10秒間に何回クリックできるか測定するゲーム。",
     "tags": [
       "ゲーム",
       "CSS"
@@ -477,7 +477,7 @@
     "title": "シンプルスロットマシーン",
     "url": "https://slot-machine-app-beta.vercel.app",
     "repo": "https://github.com/yumis2003-ops/slot-machine-app",
-    "description": "シンプルなスロットマシーン.",
+    "description": "シンプルなスロットマシーン。",
     "tags": [
       "ゲーム",
       "TypeScript"
@@ -503,7 +503,7 @@
     "title": "System Evasion Test",
     "url": "https://catch-me-button.vercel.app",
     "repo": "https://github.com/yumis2003-ops/catch-me-button",
-    "description": "マウスを近づけると、ランダムな座標データ（X, Y）を生成して画面内を逃げ回るボタンのゲーム",
+    "description": "マウスを近づけると、ランダムな座標データ（X, Y）を生成して画面内を逃げ回るボタンのゲーム。",
     "tags": [
       "ゲーム",
       "JavaScript"
@@ -570,7 +570,7 @@
     "title": "Conway's Game of Life",
     "url": "https://yumis2003-ops.github.io/conways-game-of-life",
     "repo": "https://github.com/yumis2003-ops/conways-game-of-life",
-    "description": "セルが「生」か「死」かの2次元配列データを持ち、周囲の状況に応じて勝手に模様が増殖していくシミュレーション",
+    "description": "セルが「生」か「死」かの2次元配列データを持ち、周囲の状況に応じて勝手に模様が増殖していくシミュレーション。",
     "tags": [
       "ゲーム",
       "可視化・アート",
@@ -676,7 +676,7 @@
     "title": "Voice Waveform Visualizer",
     "url": "https://voice-waveform-visualizer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/voice-waveform-visualizer",
-    "description": "PCのマイクから音を拾い、その周波数データをCanvas上にウネウネ動く波形として描画する、声の波形ビジュアライザ",
+    "description": "PCのマイクから音を拾い、その周波数データをCanvas上にウネウネ動く波形として描画する、声の波形ビジュアライザ。",
     "tags": [
       "可視化・アート",
       "音・オーディオ",
@@ -690,7 +690,7 @@
     "title": "MORSE SIGNAL GENERATOR",
     "url": "https://mo-azure-chi.vercel.app",
     "repo": "https://github.com/yumis2003-ops/mo",
-    "description": "入力したテキストを「トン・ツー」の音データと、画面発光に変換して再生する、モールス信号メーカー",
+    "description": "入力したテキストを「トン・ツー」の音データと、画面発光に変換して再生する、モールス信号メーカー。",
     "tags": [
       "ジェネレーター",
       "音・オーディオ",
@@ -878,7 +878,7 @@
     "title": "Markdown リアルタイムプレビューアー",
     "url": "https://aura-markdown-editor.vercel.app",
     "repo": "https://github.com/yumis2003-ops/aura-markdown-editor",
-    "description": "リアルタイム Markdown プレビューアー。画面左側のエディタに Markdown を入力すると、即座に右側にレイアウトされたプレビューがレンダリングされます。",
+    "description": "リアルタイム Markdown プレビューアー。画面左側のエディタに Markdown を入力すると、即座に右側にレイアウトされたプレビューがレンダリングされる。",
     "tags": [
       "開発ツール",
       "JavaScript"
