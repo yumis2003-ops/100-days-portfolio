@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.vercel
+
+# Claude Code のローカル設定（nixストアの絶対パスを含むため共有しない）
+.claude/

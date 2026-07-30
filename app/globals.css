@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #06070a;
+  --color-surface: #0f1116;
+  --color-surface-2: #171a21;
+  --color-line: #262b36;
+  --color-fg: #eef1f6;
+  --color-muted: #8b94a7;
+  --color-accent: #7dd3fc;
+  --color-accent-2: #c4b5fd;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Hiragino Kaku Gothic ProN",
+    "Noto Sans JP", "Yu Gothic", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 背景の淡いグラデーション。カードの黒とわずかに差をつけるだけの飾り。 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(60rem 40rem at 15% -10%, rgba(125, 211, 252, 0.09), transparent 60%),
+    radial-gradient(50rem 35rem at 85% 0%, rgba(196, 181, 253, 0.08), transparent 60%);
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-ink);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
