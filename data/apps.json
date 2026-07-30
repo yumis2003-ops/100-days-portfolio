@@ -14,15 +14,15 @@
   },
   {
     "day": 2,
-    "title": "Idea Manager",
-    "url": null,
-    "repo": "https://github.com/yumis2003-ops/Idea-Manager",
-    "description": "ターミナル上で動くアイデア管理CLI。TypeScriptで厳格に型を定義し、ローカルのJSONファイルに永続化する。",
+    "title": "感情分析日記",
+    "url": "https://sentiment-analysis-diary-lovat.vercel.app/",
+    "repo": "https://github.com/yumis2003-ops/sentiment-analysis-diary",
+    "description": "日記を入力すると、テキストからAIが「ポジティブ/ネガティブ」を判定し、背景色や絵文字が自動で変わる。",
     "tags": [
       "その他",
       "TypeScript"
     ],
-    "slug": "idea-manager",
+    "slug": "sentiment-analysis-diary",
     "createdAt": "2026-03-26"
   },
   {
