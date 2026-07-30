@@ -43,7 +43,7 @@
     "title": "今日のご飯決定アプリ",
     "url": "https://meshi-button.vercel.app",
     "repo": "https://github.com/yumis2003-ops/meshi_button",
-    "description": "1000種類以上のレシピから今日のご飯をランダムに決定します。",
+    "description": "1000種類以上のレシピから今日のご飯をランダムに決定するアプリ。",
     "tags": [
       "生活・趣味",
       "JavaScript"
@@ -56,7 +56,7 @@
     "title": "文字数カウンター",
     "url": "https://mozisu-count.vercel.app",
     "repo": "https://github.com/yumis2003-ops/mozisu-count",
-    "description": "入力されたテキストデータの文字数を算出します。",
+    "description": "入力されたテキストデータの文字数を算出。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -95,7 +95,7 @@
     "title": "イベントカウントダウン | あと何日？",
     "url": "https://countdown-timer-red-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/countdown-timer",
-    "description": "次の連休やイベントまでの日数をカウントダウンするタイマーです。",
+    "description": "次の連休やイベントまでの日数をカウントダウンするタイマー。",
     "tags": [
       "タイマー",
       "JavaScript"
@@ -105,10 +105,10 @@
   },
   {
     "day": 9,
-    "title": "Today's Plan",
+    "title": "シンプルToDoリスト",
     "url": "https://todo-app-nine-xi-81.vercel.app",
     "repo": "https://github.com/yumis2003-ops/todo-app",
-    "description": "A premium Todo list with progress tracking inspired by Starbucks design system.",
+    "description": "簡単なToDoリストアプリ",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -118,10 +118,10 @@
   },
   {
     "day": 10,
-    "title": "Starbucks Style Calculator",
+    "title": "シンプル電卓",
     "url": "https://dentaku-mocha.vercel.app",
     "repo": "https://github.com/yumis2003-ops/dentaku",
-    "description": "A simple calculator inspired by Starbucks design system.",
+    "description": "簡単な電卓アプリ.",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -147,7 +147,7 @@
     "title": "お天気アプリ",
     "url": "https://stop-watch-pkou.vercel.app",
     "repo": "https://github.com/yumis2003-ops/otenki",
-    "description": "現在の天気をお知らせします",
+    "description": "現在の天気をお知らせするアプリ",
     "tags": [
       "その他",
       "JavaScript"
@@ -160,7 +160,7 @@
     "title": "GitHub Search",
     "url": "https://otenki-liart.vercel.app",
     "repo": "https://github.com/yumis2003-ops/github-search-app",
-    "description": "Search the world's largest developer platform.",
+    "description": "Githubのアカウントを探すアプリ.",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -199,7 +199,7 @@
     "title": "MiroStyle - Movie & Anime Search",
     "url": "https://movie-anime-search.vercel.app",
     "repo": "https://github.com/yumis2003-ops/movie-anime-search",
-    "description": "キーワードを入力するだけで、映画やアニメのポスターとあらすじを簡単に検索できます。",
+    "description": "キーワードを入力するだけで、映画やアニメのポスターとあらすじを簡単に検索できる。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -212,7 +212,7 @@
     "title": "Markdown Preview",
     "url": "https://markdown-previewer-nu-murex.vercel.app",
     "repo": "https://github.com/yumis2003-ops/markdown-previewer",
-    "description": "ようこそ！これは左側に書いたテキストを、右側にリアルタイムで綺麗に変換して表示する「Markdown（マークダウン）プレビューワー」です。",
+    "description": "左側に書いたテキストを、右側にリアルタイムで綺麗に変換して表示する「マークダウンプレビューワー」。",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -223,10 +223,10 @@
   },
   {
     "day": 18,
-    "title": "QR Code Generator",
+    "title": "QRコードジェネレーター",
     "url": "https://qr-code-generator-six-sigma.vercel.app",
     "repo": "https://github.com/yumis2003-ops/qr-code-generator",
-    "description": "Convert any URL into a high-contrast QR code.",
+    "description": "URLからQRコードを生成するアプリ.",
     "tags": [
       "ジェネレーター",
       "CSS"
@@ -236,7 +236,7 @@
   },
   {
     "day": 19,
-    "title": "Image Filter Studio | Starbucks Design",
+    "title": "画像フィルタースタジオ",
     "url": "https://image-filter-studio-navy.vercel.app",
     "repo": "https://github.com/yumis2003-ops/image-filter-studio",
     "description": "Canvas APIを使った画像フィルタツール（グレースケール・セピア・反転など8種類）",
@@ -249,10 +249,10 @@
   },
   {
     "day": 20,
-    "title": "Digital Clock — Spotify Style",
+    "title": "シンプルデジタルクロック",
     "url": "https://digital-clock-xi-nine-95.vercel.app",
     "repo": "https://github.com/yumis2003-ops/digital-clock",
-    "description": "Spotify-inspired digital clock with per-second animations, EQ bars, and world time",
+    "description": "シンプルな世界時計",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -265,7 +265,7 @@
     "title": "支出管理ログ — カテゴリー別集計",
     "url": "https://shisyutu-expense-log.vercel.app",
     "repo": "https://github.com/yumis2003-ops/shisyutu-expense-log",
-    "description": "支出を入力してカテゴリー別に集計・可視化する家計管理アプリ。食費・交通費・娯楽費など細かくトラッキングできます。",
+    "description": "支出を入力してカテゴリー別に集計・可視化する家計管理アプリ。",
     "tags": [
       "記録・ログ",
       "CSS"
@@ -278,7 +278,7 @@
     "title": "JSON Validator — Binance Style",
     "url": "https://json-validator-lilac.vercel.app",
     "repo": "https://github.com/yumis2003-ops/json-validator",
-    "description": "JSON Validator with Binance-inspired dark design",
+    "description": "JSONが有効か調べるアプリ",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -306,7 +306,7 @@
     "title": "Base64 Encoder & Decoder",
     "url": "https://base64-tool-omega.vercel.app",
     "repo": "https://github.com/yumis2003-ops/base64-tool",
-    "description": "A simple, elegant Base64 Encoder and Decoder with a clean editorial interface.",
+    "description": "テキストを瞬時にBase64へ変換したり、Base64から元のテキストへ復元したりできるアプリ",
     "tags": [
       "開発ツール",
       "CSS"
@@ -316,10 +316,10 @@
   },
   {
     "day": 25,
-    "title": "URL Parameter Extractor",
+    "title": "URLパラメーター抽出器",
     "url": "https://url-parameter-extractor.vercel.app",
     "repo": "https://github.com/yumis2003-ops/url-parameter-extractor",
-    "description": "Instantly parse URL query strings into tabular data",
+    "description": "長いURLからクエリだけ抜き出せるアプリ",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -333,7 +333,7 @@
     "title": "正規表現チェッカー | Binance Style",
     "url": "https://check-roan-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/Check",
-    "description": "リアルタイムで正規表現のパターンをテスト・検証",
+    "description": "リアルタイムで正規表現のパターンをテスト・検証するアプリ",
     "tags": [
       "開発ツール",
       "CSS"
@@ -346,7 +346,7 @@
     "title": "Text Diff Tool",
     "url": "https://text-diff-tool-coral.vercel.app",
     "repo": "https://github.com/yumis2003-ops/text-diff-tool",
-    "description": "Compare two texts and highlight the differences with precision.",
+    "description": "2つのテキストの差分をハイライトするアプリ.",
     "tags": [
       "開発ツール",
       "CSS"
@@ -359,7 +359,7 @@
     "title": "UNIX TIMESTAMP CONVERTER | BMW M",
     "url": "https://unix-timestamp-converter-sand.vercel.app",
     "repo": "https://github.com/yumis2003-ops/unix-timestamp-converter",
-    "description": "PRECISION UNIX TIMESTAMP CONVERSION.",
+    "description": "日付と数値をUnixで変換するアプリ。",
     "tags": [
       "開発ツール",
       "ユーティリティ",
@@ -370,10 +370,10 @@
   },
   {
     "day": 29,
-    "title": "BUGATTI | Color Palette Extractor",
+    "title": "カラーパレット抽出機",
     "url": "https://color-palette-extractor-lac.vercel.app",
     "repo": "https://github.com/yumis2003-ops/color-palette-extractor",
-    "description": "Engineered precision for color analysis. Upload an automotive photograph to extract its dominant chromatic signature and supporting palette.",
+    "description": "画像から主要な色を抜き出してパレットにするアプリ",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -383,10 +383,10 @@
   },
   {
     "day": 30,
-    "title": "AppTester | 自動テスト",
+    "title": "自動テストスクリプト",
     "url": "https://auto-test-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/Auto-test",
-    "description": "自動アプリケーションテストツール",
+    "description": "アプリケーションの自動テストスクリプト。",
     "tags": [
       "開発ツール",
       "JavaScript"
@@ -399,7 +399,7 @@
     "title": "フォームバリデーター",
     "url": "https://clay-form-validator.vercel.app",
     "repo": "https://github.com/yumis2003-ops/clay-form-validator",
-    "description": "入力内容が正しい形式か判定します。",
+    "description": "入力内容が正しい形式か判定するアプリ。",
     "tags": [
       "ユーティリティ",
       "JavaScript"
@@ -412,7 +412,7 @@
     "title": "Click Speed Test",
     "url": "https://click-speed-test-sable.vercel.app",
     "repo": "https://github.com/yumis2003-ops/click-speed-test",
-    "description": "10秒間に何回クリックできるか測定します。ボタンをクリックするとスタートします。",
+    "description": "10秒間に何回クリックできるか測定するゲーム",
     "tags": [
       "ゲーム",
       "CSS"
@@ -422,10 +422,10 @@
   },
   {
     "day": 33,
-    "title": "タイピングゲーム - Coinbase Style",
+    "title": "タイピングゲーム",
     "url": "https://typing-game-zeta-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/typing-game",
-    "description": "Coinbaseのデザインシステムに基づいた、タイピングゲーム。",
+    "description": "シンプルなタイピングゲーム。",
     "tags": [
       "ゲーム",
       "CSS"
@@ -435,10 +435,10 @@
   },
   {
     "day": 34,
-    "title": "MetaMatch - Authentic Matching App",
+    "title": "擬似マッチングアプリ",
     "url": "https://matching-app-demo-mocha.vercel.app",
     "repo": "https://github.com/yumis2003-ops/matching-app-demo",
-    "description": "スワイプでプロフィールを判定していくマッチングアプリのUIデモ。",
+    "description": "スワイプでプロフィールを判定していく擬似マッチングアプリ。",
     "tags": [
       "その他",
       "JavaScript"
@@ -451,7 +451,7 @@
     "title": "Echo Sys Sns",
     "url": "https://echo-sys-sns.vercel.app",
     "repo": "https://github.com/yumis2003-ops/echo-sys-sns",
-    "description": "投稿とタイムライン表示を備えた、ミニマルなSNSクローン。",
+    "description": "承認欲求を手軽に満たせるSNS風アプリ。",
     "tags": [
       "その他",
       "TypeScript"
@@ -461,10 +461,10 @@
   },
   {
     "day": 36,
-    "title": "Mega Compliment App",
+    "title": "ホメホメくん",
     "url": "https://homehome-rho.vercel.app",
     "repo": "https://github.com/yumis2003-ops/homehome",
-    "description": "A simple app that compliments you aggressively.",
+    "description": "めちゃくちゃ褒めてくれるアプリ.",
     "tags": [
       "その他",
       "CSS"
@@ -474,10 +474,10 @@
   },
   {
     "day": 37,
-    "title": "Slot Machine",
+    "title": "シンプルスロットマシーン",
     "url": "https://slot-machine-app-beta.vercel.app",
     "repo": "https://github.com/yumis2003-ops/slot-machine-app",
-    "description": "Premium spinning experience.",
+    "description": "シンプルなスロットマシーン.",
     "tags": [
       "ゲーム",
       "TypeScript"
@@ -487,10 +487,10 @@
   },
   {
     "day": 38,
-    "title": "xBRK // BREAKOUT",
+    "title": "シンプルブロック崩しT",
     "url": "https://brock-sigma.vercel.app",
     "repo": "https://github.com/yumis2003-ops/brock",
-    "description": "xAIのダークミニマリズムにインスパイアされた、スタイリッシュなブロック崩しゲーム。ボールとブロックの精密な当たり判定と消去処理を体験してください。",
+    "description": "シンプルなブロック崩しゲーム。",
     "tags": [
       "ゲーム",
       "JavaScript"
@@ -503,7 +503,7 @@
     "title": "System Evasion Test",
     "url": "https://catch-me-button.vercel.app",
     "repo": "https://github.com/yumis2003-ops/catch-me-button",
-    "description": "Target button is locked inside this perimeter. Try clicking it if your synapses allow.",
+    "description": "マウスを近づけると、ランダムな座標データ（X, Y）を生成して画面内を逃げ回るボタンのゲーム",
     "tags": [
       "ゲーム",
       "JavaScript"
@@ -526,10 +526,10 @@
   },
   {
     "day": 41,
-    "title": "SPARK-GEN // 花火大会ジェネレーター",
+    "title": "花火ジェネレーター",
     "url": "https://fireflower-sooty.vercel.app",
     "repo": "https://github.com/yumis2003-ops/fireflower",
-    "description": "クリックした場所に物理演算された無数のソリッドパーティクルを爆発させる、スタイリッシュな極小グラフィック・花火シミュレーター。",
+    "description": "クリックした場所に物理演算された無数のソリッドパーティクルを爆発させる、グラフィック・花火シミュレーター。",
     "tags": [
       "ジェネレーター",
       "可視化・アート",
@@ -540,10 +540,10 @@
   },
   {
     "day": 42,
-    "title": "Bouncing DVD Logo Premium - 跳ねるDVDロゴ",
+    "title": "跳ねるDVDロゴ",
     "url": "https://bouncing-dvd-logo-premium.vercel.app",
     "repo": "https://github.com/yumis2003-ops/bouncing-dvd-logo-premium",
-    "description": "色を変えながら画面内を無限に跳ね返る、懐かしくも極めて美しいDVDロゴスクリーンセーバー。伝説のコーナーヒットを体験しよう。",
+    "description": "色を変えながら画面内を無限に跳ね返る、懐かしのスクリーンセーバー。",
     "tags": [
       "可視化・アート",
       "記録・ログ",
@@ -554,10 +554,10 @@
   },
   {
     "day": 43,
-    "title": "STELLAR_TRAIL // Stylish Particle Mouse Stalker",
+    "title": "Particle Mouse Stalker",
     "url": "https://stellar-trail.vercel.app",
     "repo": "https://github.com/yumis2003-ops/stellar-trail",
-    "description": "キラキラした寿命を持つ粒子がマウスの軌跡に合わせて追従する、スタイリッシュなマウスストーカーシミュレータ。",
+    "description": "キラキラした寿命を持つ粒子がマウスの軌跡に合わせて追従する、マウスストーカーシミュレータ。",
     "tags": [
       "可視化・アート",
       "JavaScript"
@@ -570,7 +570,7 @@
     "title": "Conway's Game of Life",
     "url": "https://yumis2003-ops.github.io/conways-game-of-life",
     "repo": "https://github.com/yumis2003-ops/conways-game-of-life",
-    "description": "Shopifyのプレミアムなダークテーマにインスパイアされた、美しくインタラクティブなライフゲーム（Conway",
+    "description": "セルが「生」か「死」かの2次元配列データを持ち、周囲の状況に応じて勝手に模様が増殖していくシミュレーション",
     "tags": [
       "ゲーム",
       "可視化・アート",
@@ -581,10 +581,10 @@
   },
   {
     "day": 45,
-    "title": "Fractal Tree Generator - L-System & Recursion",
+    "title": "Fractal Tree Generator",
     "url": "https://l-system-xi.vercel.app",
     "repo": "https://github.com/yumis2003-ops/L-System",
-    "description": "再帰処理とL-Systemを用いた、スタイリッシュなフラクタルツリー自動生成シミュレーター。シンプルかつモダンなデザイン、風の揺らぎや成長アニメーションに対応。",
+    "description": "ボタンを押すたびに本物みたいな木が自動生成されるフラクタルツリー。",
     "tags": [
       "ジェネレーター",
       "可視化・アート",
@@ -598,7 +598,7 @@
     "title": "Boids Simulation",
     "url": "https://yumis2003-ops.github.io/Birds-Simulation",
     "repo": "https://github.com/yumis2003-ops/Birds-Simulation",
-    "description": "分離・整列・結合の3つのルールだけで鳥の群れの動きを再現するBoidsアルゴリズムのシミュレーション。",
+    "description": "マウスの動きと連動する、鳥の群れシミュレーション。",
     "tags": [
       "可視化・アート",
       "JavaScript"
@@ -624,7 +624,7 @@
     "title": "Falling Sand",
     "url": "https://falling-sand-mocha.vercel.app",
     "repo": "https://github.com/yumis2003-ops/falling-sand",
-    "description": "Drag to create sand",
+    "description": "マウスでドラッグすると砂が落ち、下に積もっていく砂落としゲーム。",
     "tags": [
       "可視化・アート",
       "JavaScript"
@@ -637,7 +637,7 @@
     "title": "Hacker Typing",
     "url": "https://h-typing.vercel.app",
     "repo": "https://github.com/yumis2003-ops/h_typing",
-    "description": "Start typing to initiate override protocol.",
+    "description": "キーボードを適当に叩くだけで、画面に緑色の「それっぽいハッキングコード」が爆速で流れるジョークアプリ。",
     "tags": [
       "ゲーム",
       "CSS"
@@ -647,7 +647,7 @@
   },
   {
     "day": 50,
-    "title": "Premium Drum Sequencer",
+    "title": "ブラウザ・ドラムマシン",
     "url": "https://browser-drum-machine-six.vercel.app",
     "repo": "https://github.com/yumis2003-ops/browser-drum-machine",
     "description": "16ステップのシーケンサーでビートを組める、ブラウザだけで完結するドラムマシン。",
@@ -660,10 +660,10 @@
   },
   {
     "day": 51,
-    "title": "Theremin Synthesizer",
+    "title": "テルミン風シンセサイザーr",
     "url": "https://theremin-synthesizer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/theremin-synthesizer",
-    "description": "Move your mouse across the canvas to control pitch and volume.",
+    "description": "マウスを動かすだけ。テルミン風シンセサイザー。",
     "tags": [
       "音・オーディオ",
       "JavaScript"
@@ -676,7 +676,7 @@
     "title": "Voice Waveform Visualizer",
     "url": "https://voice-waveform-visualizer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/voice-waveform-visualizer",
-    "description": "A stylish real-time voice waveform visualizer using frequency data.",
+    "description": "PCのマイクから音を拾い、その周波数データをCanvas上にウネウネ動く波形として描画する、声の波形ビジュアライザ",
     "tags": [
       "可視化・アート",
       "音・オーディオ",
@@ -690,7 +690,7 @@
     "title": "MORSE SIGNAL GENERATOR",
     "url": "https://mo-azure-chi.vercel.app",
     "repo": "https://github.com/yumis2003-ops/mo",
-    "description": "CONVERT TEXT TO SOUND AND LIGHT",
+    "description": "入力したテキストを「トン・ツー」の音データと、画面発光に変換して再生する、モールス信号メーカー",
     "tags": [
       "ジェネレーター",
       "音・オーディオ",
@@ -704,7 +704,7 @@
     "title": "辛口パスワードチェッカー",
     "url": "https://hot-password.vercel.app",
     "repo": "https://github.com/yumis2003-ops/hot_password",
-    "description": "お前のパスワードを見せてみろ",
+    "description": "入力したパスワードを辛口で判定するアプリ。",
     "tags": [
       "ジェネレーター",
       "JavaScript"
@@ -717,7 +717,7 @@
     "title": "VHS GLITCH GENERATOR",
     "url": "https://vhs-glitch-art-generator.vercel.app",
     "repo": "https://github.com/yumis2003-ops/vhs-glitch-art-generator",
-    "description": "Convert your images into 80s Cyberpunk VHS Glitch Art.",
+    "description": "アップロードした画像から簡単にグリッジアートが作れるアプリ。",
     "tags": [
       "ジェネレーター",
       "可視化・アート",
@@ -728,10 +728,10 @@
   },
   {
     "day": 56,
-    "title": "Focus Mixer - 環境音ミキサー",
+    "title": "環境音ミキサー",
     "url": "https://focus-mixer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/focus-mixer",
-    "description": "雨音、焚き火、カフェの雑踏などを組み合わせ、深い集中のための理想的なBGMを作成します。",
+    "description": "雨音、焚き火、カフェの雑踏などを組み合わせ、深い集中のための理想的なBGMを作成。",
     "tags": [
       "音・オーディオ",
       "JavaScript"
@@ -741,7 +741,7 @@
   },
   {
     "day": 57,
-    "title": "Absolute Pitch Quiz",
+    "title": "絶対音感クイズ",
     "url": "https://onkan-seven.vercel.app",
     "repo": "https://github.com/yumis2003-ops/onkan",
     "description": "鳴った音の音名を当てて絶対音感を鍛えるクイズ。連続正解数を記録できる。",
@@ -771,7 +771,7 @@
     "title": "Sushi Typing",
     "url": "https://sushi-typing.vercel.app",
     "repo": "https://github.com/yumis2003-ops/sushi-typing",
-    "description": "〜打って積んでお腹いっぱい〜",
+    "description": "〜打って積んでお腹いっぱい〜、寿司タイピングゲーム。",
     "tags": [
       "ゲーム",
       "生活・趣味",
@@ -785,7 +785,7 @@
     "title": "Vertex Archetype Analyzer — BIG5性格診断",
     "url": "https://shindan-psi.vercel.app",
     "repo": "https://github.com/yumis2003-ops/shindan",
-    "description": "BIG5（ビッグファイブ）理論に基づく、本格的なパーソナリティ・アーキタイプ分析。10の質問からあなたの本質的な認知特性を導き出します。",
+    "description": "BIG5（ビッグファイブ）理論に基づく、本格的なパーソナリティ・アーキタイプ分析。",
     "tags": [
       "学習・クイズ",
       "JavaScript"
@@ -795,10 +795,10 @@
   },
   {
     "day": 61,
-    "title": "SUPER EMOJI SLOT - 8-Bit Retro Arcade",
+    "title": "SUPER EMOJI SLOT",
     "url": "https://3slot.vercel.app",
     "repo": "https://github.com/yumis2003-ops/3slot",
-    "description": "懐かしの8ビットアクションゲーム風デザインの絵文字スロットマシン！ハテナブロックのSPINボタンを叩いて、3つのリールを揃えて1UP（大当たり）を目指そう！",
+    "description": "懐かしの8ビットアクションゲーム風デザインの絵文字スロットマシン。",
     "tags": [
       "ゲーム",
       "JavaScript"
@@ -808,10 +808,10 @@
   },
   {
     "day": 62,
-    "title": "DATA ENGINE // 高速テストデータ一括ジェネレーター",
+    "title": "高速テストデータ一括ジェネレーター",
     "url": "https://testgen-gray.vercel.app",
     "repo": "https://github.com/yumis2003-ops/testgen",
-    "description": "氏名、メールアドレス、電話番号、住所などのダミーデータを指定件数分、JSON/CSV/SQL/YAML形式で一瞬で生成・ダウンロードできる、極限まで無駄を削ぎ落とした超高速クライアントサイド生成エンジン。",
+    "description": "氏名、メールアドレス、電話番号、住所などのダミーデータを指定件数分、JSON/CSV/SQL/YAML形式で一瞬で生成・ダウンロード可能。",
     "tags": [
       "ジェネレーター",
       "開発ツール",
@@ -822,10 +822,10 @@
   },
   {
     "day": 63,
-    "title": "Daily Brew | 日報・朝会テンプレート作成機",
+    "title": "日報・朝会テンプレート作成機",
     "url": "https://daily-brew-sable.vercel.app",
     "repo": "https://github.com/yumis2003-ops/daily-brew",
-    "description": "今日のタスク、明日のタスク、困っていることを入力するだけで、SlackやTeams、メール用の日報・朝会フォーマットに瞬時に整形。カフェのような心地よい体験をお届けします。",
+    "description": "今日のタスク、明日のタスク、困っていることを入力するだけで、SlackやTeams、メール用の日報・朝会フォーマットに瞬時に整形。",
     "tags": [
       "その他",
       "CSS"
@@ -835,7 +835,7 @@
   },
   {
     "day": 64,
-    "title": "SnipDeck — Developer Snippet Center",
+    "title": "Developer Snippet Center",
     "url": "https://snpet.vercel.app",
     "repo": "https://github.com/yumis2003-ops/snpet",
     "description": "よく使う定型文やコードスニペットを保存・管理し、ワンクリックやキーボードショートカットで瞬時にクリップボードにコピーできる極上の開発者用スニペット管理ツール。",
@@ -848,10 +848,10 @@
   },
   {
     "day": 65,
-    "title": "GridMark - Premium Markdown Table Generator",
+    "title": "Markdown Table Generator",
     "url": "https://gridmark-wheat.vercel.app",
     "repo": "https://github.com/yumis2003-ops/gridmark",
-    "description": "スプレッドシート風の直感的なグリッド画面から、美しく整理されたMarkdownテーブルコードをリアルタイムに生成するプレミアムなWebツール。",
+    "description": "スプレッドシート風の直感的なグリッド画面から、Markdownテーブルコードをリアルタイムに生成するWebツール。",
     "tags": [
       "ジェネレーター",
       "開発ツール",
@@ -862,10 +862,10 @@
   },
   {
     "day": 66,
-    "title": "LinkFlow - 複数URL一括オープナー",
+    "title": "複数URL一括オープナー",
     "url": "https://linkflow-url-opener.vercel.app",
     "repo": "https://github.com/yumis2003-ops/linkflow-url-opener",
-    "description": "改行やスペース、カンマ区切りのURLテキストから自動でリンクを抽出し、ワンクリックで別タブで一括オープンします。",
+    "description": "改行やスペース、カンマ区切りのURLテキストから自動でリンクを抽出し、ワンクリックで別タブで一括オープン。",
     "tags": [
       "ユーティリティ",
       "CSS"
@@ -875,10 +875,10 @@
   },
   {
     "day": 67,
-    "title": "Aura Editor — エディトリアル Markdown リアルタイムプレビューアー",
+    "title": "Markdown リアルタイムプレビューアー",
     "url": "https://aura-markdown-editor.vercel.app",
     "repo": "https://github.com/yumis2003-ops/aura-markdown-editor",
-    "description": "Aura Editor は、エディトリアル・ミニマリズムのデザイン哲学に基づいた、美しく洗練されたリアルタイム Markdown プレビューアーです。画面左側のエディタに Markdown を入力すると、即座に右側に美しくレイアウトされたプレビューがレンダリングされます。",
+    "description": "リアルタイム Markdown プレビューアー。画面左側のエディタに Markdown を入力すると、即座に右側にレイアウトされたプレビューがレンダリングされます。",
     "tags": [
       "開発ツール",
       "JavaScript"
@@ -888,7 +888,7 @@
   },
   {
     "day": 68,
-    "title": "トレッドミル・ペース計算機 - プレミアム・ワークアウトツール",
+    "title": "トレッドミル・ペース計算機",
     "url": "https://treadmill-pace-calculator-green.vercel.app",
     "repo": "https://github.com/yumis2003-ops/treadmill-pace-calculator",
     "description": "時速、傾斜、距離から消費カロリーと到達時間をリアルタイム算出。",
@@ -902,10 +902,10 @@
   },
   {
     "day": 69,
-    "title": "AuraSleep | 睡眠時間・逆算アラーム電卓",
+    "title": "睡眠時間・逆算アラーム電卓",
     "url": "https://sleep-alarm-calculator.vercel.app",
     "repo": "https://github.com/yumis2003-ops/sleep-alarm-calculator",
-    "description": "起床時間から90分の睡眠サイクルを逆算し、脳と体が最高にリフレッシュする就寝時間を提案します。",
+    "description": "起床時間から90分の睡眠サイクルを逆算し、脳と体が最高にリフレッシュする就寝時間を提案するアプリ。",
     "tags": [
       "タイマー",
       "生活・趣味",
@@ -916,10 +916,10 @@
   },
   {
     "day": 70,
-    "title": "FreshKeep | 食材・日用品の消費期限メモ",
+    "title": "食材・日用品の消費期限メモ",
     "url": "https://foodlist-mu.vercel.app",
     "repo": "https://github.com/yumis2003-ops/foodlist",
-    "description": "買った食材や日用品の消費期限・賞味期限をスマートに登録・管理し、期限が近づくと色変化とスマートなアラートで直感的に通知するプレミアムなストック管理・期限メモアプリ。",
+    "description": "買った食材や日用品の消費期限・賞味期限をスマートに登録・管理し、期限が近づくと色変化とアラートで直感的に通知するストック管理・期限メモアプリ。",
     "tags": [
       "記録・ログ",
       "CSS"
@@ -929,10 +929,10 @@
   },
   {
     "day": 71,
-    "title": "Chronicle - 読書・学習ログ & 要約ノート",
+    "title": "読書・学習ログ & 要約ノート",
     "url": "https://chronicle-learning-log.vercel.app",
     "repo": "https://github.com/yumis2003-ops/chronicle-learning-log",
-    "description": "Chronicleは、読んだ本や学習した内容の要約を美しく整理・蓄積し、いつでも直感的にキーワード検索できるプレミアムなノートアプリです。",
+    "description": "読んだ本や学習した内容の要約を美しく整理・蓄積し、いつでも直感的にキーワード検索できるプレミアムなノートアプリ。",
     "tags": [
       "記録・ログ",
       "JavaScript"
@@ -942,7 +942,7 @@
   },
   {
     "day": 72,
-    "title": "ポモドーロ・タイマー | 集中と休憩のサイクル管理",
+    "title": "シンプル・ポモドーロ・タイマー",
     "url": "https://focusflow-pomodoro-nine.vercel.app",
     "repo": "https://github.com/yumis2003-ops/focusflow-pomodoro",
     "description": "25分集中・5分休憩のポモドーロを回し、こなしたサイクル数を記録するタイマー。",
@@ -955,7 +955,7 @@
   },
   {
     "day": 73,
-    "title": "SST Portal Grid - カスタマイズウィジェットダッシュボード",
+    "title": "カスタマイズウィジェットダッシュボード",
     "url": "https://sst-portal-grid.vercel.app",
     "repo": "https://github.com/yumis2003-ops/sst-portal-grid",
     "description": "時計・天気・メモなどのウィジェットを自由に並べて作る、自分専用のダッシュボード。",
@@ -968,7 +968,7 @@
   },
   {
     "day": 74,
-    "title": "NodeFlow - Markdown ↔ Mindmap Converter",
+    "title": "Markdown ↔ Mindmap Converter",
     "url": "https://nodeflow-mindmap.vercel.app",
     "repo": "https://github.com/yumis2003-ops/nodeflow-mindmap",
     "description": "Markdownの箇条書きとマインドマップを相互に変換し、文章の構造を図で確認できるツール。",
@@ -985,7 +985,7 @@
     "title": "Timebox • スケジュールトラッカー",
     "url": "https://timebox-tracker.vercel.app",
     "repo": "https://github.com/yumis2003-ops/timebox-tracker",
-    "description": "1日の時間をブロックに分割して管理します。現在時刻に合わせて自動更新されます。",
+    "description": "1日の時間をブロックに分割して管理。現在時刻に合わせて自動更新される。",
     "tags": [
       "タイマー",
       "記録・ログ",
@@ -996,10 +996,10 @@
   },
   {
     "day": 76,
-    "title": "LuminaEdit - Web-Based Image Editor",
+    "title": "Web-Based Image Editor",
     "url": "https://canvas-theta-ten.vercel.app",
     "repo": "https://github.com/yumis2003-ops/Canvas",
-    "description": "ブラウザだけで完結する画像エディタ。切り抜き・色補正・フィルタをCanvas APIで処理する。",
+    "description": "リサイズ、クロップ、グレースケールやセピアなどのフィルタ適用、文字入れができる画像編集器。",
     "tags": [
       "可視化・アート",
       "JavaScript"
@@ -1009,10 +1009,10 @@
   },
   {
     "day": 77,
-    "title": "ONYX | SCREEN RECORDER & ANNOTATOR",
+    "title": "SCREEN RECORDER & ANNOTATOR",
     "url": "https://onyx-screen-recorder.vercel.app",
     "repo": "https://github.com/yumis2003-ops/onyx-screen-recorder",
-    "description": "ONYX SCREEN RECORDER - ブラウザ上で動作するプレミアムな画面録画・アノテーションツール。リアルタイムでペン注釈を入れながら、マイク音声とシステム音声をミックスして録音し、高品質なWebM形式で保存・ダウンロードできます。",
+    "description": "ブラウザ上で動作するプレミアムな画面録画・アノテーションツール。",
     "tags": [
       "ユーティリティ",
       "JavaScript"
@@ -1022,10 +1022,10 @@
   },
   {
     "day": 78,
-    "title": "SlideFlux - Markdown to Slide Generator",
+    "title": "Markdown to Slide Generator",
     "url": "https://slide-flux.vercel.app",
     "repo": "https://github.com/yumis2003-ops/slide-flux",
-    "description": "Markdownから即座にプレゼンテーションスライドを生成するWebアプリケーション。",
+    "description": "Markdownから即座にプレゼンテーションスライドを生成するアプリ。",
     "tags": [
       "ジェネレーター",
       "開発ツール",
@@ -1036,10 +1036,10 @@
   },
   {
     "day": 79,
-    "title": "Shapeflow SVG Studio - プレミアム SVG アイコン カスタマイザー",
+    "title": "Shapeflow SVG Studio",
     "url": "https://svg-icon-customizer-tan.vercel.app",
     "repo": "https://github.com/yumis2003-ops/svg-icon-customizer",
-    "description": "SVGアイコンのパスを読み込み、色、太さ、サイズ、角の丸みを自由に調整して、新しいSVGやPNGとして書き出せるプロフェッショナルなツール。",
+    "description": "SVGアイコンのパスを読み込み、色、太さ、サイズ、角の丸みを自由に調整して、新しいSVGやPNGとして書き出せるツール。",
     "tags": [
       "ユーティリティ",
       "JavaScript"
@@ -1049,10 +1049,10 @@
   },
   {
     "day": 80,
-    "title": "WaveClipper | オンライン・オーディオトリマー",
+    "title": "オンライン・オーディオトリマー",
     "url": "https://waveclipper-audio-trimmer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/waveclipper-audio-trimmer",
-    "description": "WaveClipperは、ブラウザ上で動作するクリーンで高機能なオーディオトリマーです。波形を見ながら開始・終了時間を指定し、フェードイン・フェードアウト効果を加えて素早く切り出せます。",
+    "description": "ブラウザ上で動作するオーディオトリマー。波形を見ながら開始・終了時間を指定し、フェードイン・フェードアウト効果を加えて素早く切り出せます。",
     "tags": [
       "音・オーディオ",
       "JavaScript"
@@ -1062,10 +1062,10 @@
   },
   {
     "day": 81,
-    "title": "ScribeFlow - リアルタイム・ベクター描画ホワイトボード",
+    "title": "リアルタイム・ベクター描画ホワイトボード",
     "url": "https://scribeflow-whiteboard.vercel.app",
     "repo": "https://github.com/yumis2003-ops/scribeflow-whiteboard",
-    "description": "複数人での共有や個人利用に対応した、洗練されたベクターベースのお絵描きボード。Undo/Redo、リアルタイム同期機能付き。",
+    "description": "複数人での共有や個人利用に対応した、ベクターベースのお絵描きボード。Undo/Redo、リアルタイム同期機能付き。",
     "tags": [
       "ユーティリティ",
       "JavaScript"
@@ -1075,10 +1075,10 @@
   },
   {
     "day": 82,
-    "title": "Strength Archive — Est. 1RM Workout Planner",
+    "title": "1RM Workout Planner",
     "url": "https://workout-planner-seven-gamma.vercel.app",
     "repo": "https://github.com/yumis2003-ops/workout-planner",
-    "description": "筋トレの種目、セット数、重量、RPE（自覚的運動強度）を記録し、推定1RM（最大重量）の推移を洗練されたミニマルなグラフで表示・管理するワークアウトプランナー。",
+    "description": "筋トレの種目、セット数、重量、RPE（自覚的運動強度）を記録し、推定1RM（最大重量）の推移をグラフで表示・管理するワークアウトプランナー。",
     "tags": [
       "生活・趣味",
       "JavaScript"
@@ -1088,7 +1088,7 @@
   },
   {
     "day": 83,
-    "title": "CommitHabit - Write Habits, Push Streaks",
+    "title": "CommitHabit",
     "url": "https://habit-streak-heatmap.vercel.app",
     "repo": "https://github.com/yumis2003-ops/habit-streak-heatmap",
     "description": "習慣の継続をGitHubのコミットグラフ風ヒートマップで可視化し、連続日数を追うツール。",
@@ -1101,7 +1101,7 @@
   },
   {
     "day": 84,
-    "title": "爆速Markdownコピー機 (Quick Link Utility) | quick-markdown-copier",
+    "title": "爆速Markdownコピー機",
     "url": "https://yumis2003-ops.github.io/quick-markdown-copier/",
     "repo": "https://github.com/yumis2003-ops/quick-markdown-copier",
     "description": "タイトルとURLからMarkdownのリンク記法を組み立て、ワンクリックでコピーできるツール。",
@@ -1118,7 +1118,7 @@
     "title": "ポケモンずかん - 初代赤緑スタイル",
     "url": "https://pokemon-pokedex-ecru.vercel.app",
     "repo": "https://github.com/yumis2003-ops/pokemon-pokedex",
-    "description": "無料PokeAPIを活用した、ゲームボーイ時代のポケットモンスター赤・緑デザインを完全踏襲したポケモン図鑑Webアプリ。",
+    "description": "無料PokeAPIを活用した、ゲームボーイ時代のポケットモンスター赤・緑デザインを完全踏襲したポケモン図鑑アプリ。",
     "tags": [
       "生活・趣味",
       "JavaScript"
@@ -1128,10 +1128,10 @@
   },
   {
     "day": 86,
-    "title": "Oshi-Love Tracker | 推し活・課金トラッカー",
+    "title": "推し活・課金トラッカー",
     "url": "https://oshi-love-tracker.vercel.app",
     "repo": "https://github.com/yumis2003-ops/oshi-love-tracker",
-    "description": "推しへの愛（支出）を可愛く記録・管理！月ごとの推移や割合をファンシーなグラフで可視化する推し活トラッカー。",
+    "description": "推しへの愛（支出）を可愛く記録・管理！月ごとの推移や割合をグラフで可視化する推し活トラッカー。",
     "tags": [
       "記録・ログ",
       "JavaScript"
@@ -1141,10 +1141,10 @@
   },
   {
     "day": 87,
-    "title": "TOTONOI SCORE TRACKER | サウナ「ととのい」スコア記録",
+    "title": "サウナ「ととのい」スコア記録",
     "url": "https://sauna-totonoi-score-tracker.vercel.app",
     "repo": "https://github.com/yumis2003-ops/sauna-totonoi-score-tracker",
-    "description": "サウナでの「ととのい」を可視化し、心身をコンディショニングしましょう。",
+    "description": "サウナでの「ととのい」を記録し、可視化するアプリ。",
     "tags": [
       "記録・ログ",
       "JavaScript"
@@ -1154,10 +1154,10 @@
   },
   {
     "day": 88,
-    "title": "積読消化シミュレーター | 読書ライフプランナー",
+    "title": "積読消化シミュレーター",
     "url": "https://dokusho-canvas.vercel.app",
     "repo": "https://github.com/yumis2003-ops/dokusho-canvas",
-    "description": "積読消化シミュレーター：買っている本のページ数と1日の読書時間から、全ての積読本を読み終える予定日をカレンダー上にビジュアル予測します。",
+    "description": "買っている本のページ数と1日の読書時間から、全ての積読本を読み終える予定日をカレンダー上にビジュアル予測するアプリ。",
     "tags": [
       "可視化・アート",
       "記録・ログ",
@@ -1168,10 +1168,10 @@
   },
   {
     "day": 89,
-    "title": "DripTimer Pro - プロフェッショナル・コーヒー抽出タイマー",
+    "title": "コーヒー抽出タイマー",
     "url": "https://coffee-drip-recipe-timer.vercel.app",
     "repo": "https://github.com/yumis2003-ops/coffee-drip-recipe-timer",
-    "description": "豆の量、湯温、抽出比率を設定し、蒸らしから落ちきりまでの各ステップを自動進行する、バリスタ向けプロフェッショナル抽出レシピタイマーツール。",
+    "description": "豆の量、湯温、抽出比率を設定し、蒸らしから落ちきりまでの各ステップを自動進行するコーヒー抽出レシピタイマーツール。",
     "tags": [
       "タイマー",
       "生活・趣味",
@@ -1182,7 +1182,7 @@
   },
   {
     "day": 90,
-    "title": "Greenery Calendar - 観葉植物の水やりカレンダー",
+    "title": "観葉植物の水やりカレンダー",
     "url": "https://plant-watering-calendar.vercel.app",
     "repo": "https://github.com/yumis2003-ops/plant-watering-calendar",
     "description": "植物ごとの最適な周期で水やりを記録・管理。今日水をあげるべき鉢が一目でわかる、カフェ風デザインのプレミアムツール。",
@@ -1195,10 +1195,10 @@
   },
   {
     "day": 91,
-    "title": "弾丸しおりジェネレーター - タイムライン形式の旅行スケジュール",
+    "title": "弾丸しおりジェネレーター",
     "url": "https://bullet-trip-generator.vercel.app",
     "repo": "https://github.com/yumis2003-ops/bullet-trip-generator",
-    "description": "箇条書きからスマホ向けの美しいタイムライン形式しおりを自動生成するWebツール",
+    "description": "箇条書きからスマホ向けのタイムライン形式しおりを自動生成するアプリ。",
     "tags": [
       "ジェネレーター",
       "JavaScript"
@@ -1208,7 +1208,7 @@
   },
   {
     "day": 92,
-    "title": "BoardArena - ボードゲーム勝率ダッシュボード",
+    "title": "ボードゲーム勝率ダッシュボード",
     "url": "https://boardgame-win-rate-dashboard.vercel.app",
     "repo": "https://github.com/yumis2003-ops/boardgame-win-rate-dashboard",
     "description": "友達同士で遊んだボードゲームのスコアを記録し、勝率や得意なゲームをレーダーチャートで分析するダッシュボード。",
@@ -1222,10 +1222,10 @@
   },
   {
     "day": 93,
-    "title": "冷蔵庫の残り物レシピメーカー | 3ステップAIクッキング",
+    "title": "冷蔵庫の残り物レシピメーカー",
     "url": "https://nokorimono-recipes.vercel.app",
     "repo": "https://github.com/yumis2003-ops/nokorimono-recipes",
-    "description": "冷蔵庫の残り物の食材タグを入力するだけで、AIがわずか3ステップでできる美味しいオリジナルレシピを即座に考案して生成します。",
+    "description": "冷蔵庫の残り物の食材タグを入力するだけで、AIが3ステップでできる美味しいオリジナルレシピを即座に考案して生成。",
     "tags": [
       "生活・趣味",
       "JavaScript"
@@ -1235,10 +1235,10 @@
   },
   {
     "day": 94,
-    "title": "夢占いログ | AIが深層心理を解釈する夢日記",
+    "title": "夢占いログ",
     "url": "https://dream-interpretation-log.vercel.app",
     "repo": "https://github.com/yumis2003-ops/dream-interpretation-log",
-    "description": "見た夢をフリーテキストで記録するだけで、AIが深層心理を解釈し、自動でタグ（ストレス、吉夢など）を生成して保存する夢ログ日記アプリケーションです。",
+    "description": "見た夢をフリーテキストで記録するだけで、AIが深層心理を解釈し、自動でタグ（ストレス、吉夢など）を生成して保存する夢ログ日記アプリ。",
     "tags": [
       "記録・ログ",
       "JavaScript"
@@ -1248,10 +1248,10 @@
   },
   {
     "day": 95,
-    "title": "見出しチェッカー | ニュースの釣り度・誇張度をAIがスピード判定",
+    "title": "見出しチェッカー",
     "url": "https://clickbait-checker.vercel.app",
     "repo": "https://github.com/yumis2003-ops/clickbait-checker",
-    "description": "ニュース記事の見出しを入力するだけで、AIが誇張度合いや感情的な煽りを分析し、パーセンテージで警告表示。客観的なリライト案も同時に提示します。",
+    "description": "ニュース記事の見出しを入力するだけで、AIが誇張度合いや感情的な煽りを分析し、パーセンテージで警告表示。客観的なリライト案も同時に提示。",
     "tags": [
       "開発ツール",
       "JavaScript"
@@ -1261,10 +1261,10 @@
   },
   {
     "day": 96,
-    "title": "ろくろ回しジェネレーター - 意識高い系IT社長インタビュー",
+    "title": "ろくろ回しジェネレーター",
     "url": "https://rokuro-generator.vercel.app",
     "repo": "https://github.com/yumis2003-ops/rokuro-generator",
-    "description": "キーワードを入れるだけで、意識高い系IT社長っぽいインタビュー記事を自動生成するジョークツール。",
+    "description": "キーワードを入れるだけで、意識高い系IT社長っぽいインタビュー記事を自動生成するジョークアプリ。",
     "tags": [
       "ジェネレーター",
       "JavaScript"
@@ -1274,7 +1274,7 @@
   },
   {
     "day": 97,
-    "title": "WebPortal - 日本最大級のポータルサイト（モック）",
+    "title": "WebPortal",
     "url": "https://unavoidable-yes-ui.vercel.app",
     "repo": "https://github.com/yumis2003-ops/unavoidable-yes-ui",
     "description": "「いいえ」が押せないダイアログなど、ダークパターンを集めたポータルサイト風のUIモック。",
@@ -1287,7 +1287,7 @@
   },
   {
     "day": 98,
-    "title": "謝罪文ルーレット - AI/手動でそれっぽい謝罪文を自動生成",
+    "title": "謝罪文ルーレット",
     "url": "https://shyazai.vercel.app",
     "repo": "https://github.com/yumis2003-ops/shyazai",
     "description": "「誠に」「遺憾ながら」「善処します」などのパーツをランダムに組み合わせて、意味不明だけど何となくそれっぽい謝罪文を自動生成するジョークUIツール。深刻度選択やカスタマイズ機能も搭載。",
@@ -1300,10 +1300,10 @@
   },
   {
     "day": 99,
-    "title": "理不尽割り勘ルーレット - 居酒屋「理不尽」",
+    "title": "理不尽割り勘ルーレット",
     "url": "https://nomikai-eta.vercel.app",
     "repo": "https://github.com/yumis2003-ops/nomikai",
-    "description": "飲み会の代金をランダムなダーツで理不尽に割り勘！均等割りなんてつまらない、スリル満点の支払い決定ゲーム。",
+    "description": "飲み会の代金をランダムなダーツで理不尽に割り勘。均等割りなんてつまらない、スリル満点の支払い決定ゲーム。",
     "tags": [
       "生活・趣味",
       "JavaScript"
@@ -1313,7 +1313,7 @@
   },
   {
     "day": 100,
-    "title": "仮想「猫」キーボード - 和風猫カフェ「にゃんこ庵」",
+    "title": "仮想「猫」キーボード",
     "url": "https://virtual-cat-keyboard.vercel.app",
     "repo": "https://github.com/yumis2003-ops/virtual-cat-keyboard",
     "description": "キーを押すと猫の鳴き声が返ってくる、和風猫カフェ風の仮想キーボード。",
